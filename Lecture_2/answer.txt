@@ -1,0 +1,30 @@
+"world": 77 6F 72 6C 64
+
+starting postion of hello_world.doc: 00001840
+
+starting position of hello_world 1 bit: 0000003E
+
+starting position of hello world 24 bit: 00000036
+
+6.3
+A notification pops up saying, "This app can't run on your PC".
+
+No, the bytes inside the file did not change, as the results shown on Hex viewer were the same for both extensions.
+
+I am able to change the contents, however, when I go to save the file, it prompts me to save the file as a new separate one.
+
+7.
+1) I have one disk, it is called disk 0.
+
+2) Disk model- SAMSUNG MZAL81T0HFLB-00BL2
+   Disk capacity- 953.85 GB
+   Disk read speed- 6,666 MB/s
+   Disk write speed- 4,557MB/s
+
+3) I have 3 partitions-partition sizes: 260MB, 1.95GB, 951.65GB
+   Disk 0 partition 1: EFI system partition
+   Disk 0 partition 4: Recovery partition
+   Windows-SSD (C:): Contains my OS
+
+
+

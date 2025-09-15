@@ -1,0 +1,21 @@
+4. Component Identification
+	1. CPU model - Intel(R) Core(TM) i9-14900HX
+	   No. of cores - 24
+           Core speed - 2.30GHz
+	2. RAM model - DDR5
+	   Speed - 5600 MT/s
+	   Amount of RAM - 32GB
+	3. GPU type - NVIDIA GeForce RTX 5070 Laptop GPU
+	   VRAM - 8.00 GB
+	4. Firmware/bios version - LENOVO QNCN28WW
+	   Last updated - 12-5-2025
+5. Boot Order
+	1. Windows Boot Manager (NVMe SSD)
+	2. USB HDD
+	3. USB CD
+	4. PXE Boot (Network Boot, IPv4/IPv6)
+6. Screen Resolution
+	1. Current screen resolution - 2560 x 1600
+	2. The screen flips 90 degrees, and the touchpad gets a bit confusing to use.
+	3. If I have a vertical monitor.
+	4. The quality of the screen becomes really bad, and the screen gets zoomed in.

@@ -1,0 +1,11 @@
+4 IP Address, Routing & Webrequests
+	1. IP address: 145.118.110.236
+	   Local IP address: 145.118.110.236
+	   Default gateway: 145.118.108.1
+	2. IP address: 2001:610:450:41::197
+	   Local IP address: 145.118.110.236
+	   Default gateway: 145.118.108.1
+	3. Both are public.
+	4. The Hague, South Holland, Netherlands
+	5. The IP addresses are different.
+	6. Amsterdam, Netherlands

@@ -1,0 +1,13 @@
+5 Device Drivers
+How many active drivers are currently running on your system?
+	- 187
+Where are your wifi and network drivers located and what is the name of the drivers?
+	- Wifi- Name: MediaTek Wi-Fi 7 MT7925 Wireless LAN Card, Location: PCI Slot 4 (PCI bus 18, device 0, function 0) | C:\Windows\system32\mtkihvx.dll
+	- Network- Name: Bluetooth Device (Personal Area Network), Location: on MediaTek Bluetooth Adapter | C:\Windows\system32\DRIVERS\bthpan.sys
+
+6.1 Monitor Active Processes
+How much RAM is being used and what percentage of the CPU is being used?
+	- RAM: 2,341.2 MB
+	- CPU: 0.6%
+Where is google located?
+	- C:\Program Files\Google\Chrome\Application
